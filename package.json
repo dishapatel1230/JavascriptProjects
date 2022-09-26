@@ -1,0 +1,20 @@
+{
+  "name": "javascriptprojects",
+  "version": "1.0.0",
+  "description": "I would like to create interactive  small projects which is discover JavaScript, HTML, CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dishapatel1230/JavascriptProjects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dishapatel1230/JavascriptProjects/issues"
+  },
+  "homepage": "https://github.com/dishapatel1230/JavascriptProjects#readme"
+}
